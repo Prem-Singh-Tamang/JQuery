@@ -1,0 +1,305 @@
+header{
+    background-color: pink;
+    height: 100px;
+    width: 1000px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 25px;
+    position: relative;
+    top: 50px;
+    box-shadow: 2px 2px 10px whitesmoke;
+    
+
+}
+
+.hide{
+    position: relative;
+    margin-left: 150px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: greenyellow;
+}
+.show{
+    position: relative;
+    margin-top: 30px;
+    margin-left: 150px;
+    border-radius: 20px;
+    background-color: coral;
+}
+
+#panel{
+    padding: 5px;
+    text-align: center;
+    background-color:indianred;
+    border: solid 1px black;
+    display: none;
+    height: 70px;
+    width: 1000px;
+    border-radius: 20px;
+    box-shadow:2px 2px 10px whitesmoke; 
+}
+
+/* stop sliding */
+#stop{
+border-radius: 20px;
+margin-top: 30px;
+
+
+}
+
+/* fade img */
+img{
+    width: 164vh;
+    height: 405px;
+    border-radius: 25px;
+     
+
+
+}
+
+.tfade{
+    border-radius: 20px;
+    position: relative;
+    margin-left: 350px;
+
+}
+.phallus{
+    padding: 0 0 0 50px;
+    height: 200px;
+    width: 300px;
+    position:relative;
+    top: 40px;
+    right: 290px;
+     
+
+ 
+}
+#pic{
+    width:200px ;
+    height: 200px;
+    position: relative;
+    left: 200px;
+    top: 40px;
+}
+.ani{
+    border-radius: 20px;
+    position: relative;
+    top: 50px;
+    background-color: chocolate;
+}
+/* hide para */
+.para{
+    border-radius: 20px;
+    margin-left: 800px;
+
+}
+
+/* div edition */
+#header div{
+    background-color: aliceblue;
+
+}
+#one{
+    height: 150px;
+    width: 1000px;
+    background-color: aliceblue;
+    border-radius: 30px;
+    top: 50px;
+    box-shadow:2px 2px 10px whitesmoke; 
+
+}
+#flip{
+    text-align: center;
+    background-color: cadetblue;
+    width: 1000px;
+    height: 50px;
+    border-radius: 30px;
+    top: 50px;
+    box-shadow:2px 2px 10px whitesmoke; 
+
+  
+}
+#toggle{
+    position: relative;
+    top: 50px;
+    width: 1000px;
+    box-shadow:2px 2px 10px whitesmoke; 
+
+    
+
+}
+#Animation{
+    height: 300px;
+    width: 1000px;
+    position: relative;
+    top: 60px;
+    border-radius: 25px;
+    background-image: url("https://s3.amazonaws.com/rocketstockassets/uploads/After-Effects-Fire-Example1.gif");
+}
+
+
+#jquery{
+    border-radius: 20px;
+}
+
+/* get div */
+#get{
+    position: relative;
+    top: 70px;
+    background-color: cornsilk;
+    height: 200px;
+    width: 1000px;
+    border-radius: 20px;
+    box-shadow:2px 2px 10px whitesmoke; 
+
+}
+#idvalue{
+    text-align: center;
+    border-radius: 20px;
+    position: relative;
+    top: 70px;
+    left: 190px;
+
+}
+#pop{
+    text-align: center;
+    position: relative;
+    left: 110px;
+    top: 60px;
+   
+}
+/* set div */
+#set{
+    background-color:rgb(127, 212, 212);
+    height:200px ;
+    width: 1000px;
+    position: relative;
+    top: 100px;
+    border-radius: 20px;
+    box-shadow:2px 2px 10px whitesmoke; 
+
+
+
+
+}
+#test1,#test2,#test3{
+    position: relative;
+    text-align: center;
+    margin-left: 30px;
+    top: 20px;
+}
+
+#btn1,#btn2,#btn3{
+    position: relative;
+    text-align: center;
+top: 20px;
+border-radius: 20px;
+background-color: rgb(255, 127, 197);
+}
+
+/* sunset img */
+#sunset{
+    height: 200px;
+    width: 200px;
+    
+   
+}
+
+
+ /* add div */
+ #adddiv{
+    background-color: lightsalmon;
+    height: 300px;
+    width: 1000px;
+    position: relative;
+    top: 150px;
+    border-radius: 25px;
+    box-shadow:2px 2px 10px whitesmoke; 
+
+ }
+ #aft{
+    border-radius: 20px;
+    background-color: cadetblue;
+ }
+
+ /* remove */
+ #remove{
+    background-color: palegreen;
+    height: 150px;
+    width: 1000px;
+    border-radius: 25px;
+    position: relative;
+    top: 180px;
+    box-shadow:2px 2px 10px whitesmoke; 
+
+    
+ }
+ #rem{
+    position: relative;
+    top: 170px;
+    border-color: brown;
+    border-radius: 20px;
+    background-color: rgb(222, 176, 216);
+    
+ }
+
+ /* css.class */
+ #css{
+    background-color: lightpink;
+    height: 220px;
+    width: 1000px;
+    border-radius: 20px;
+    border-color: black;
+    position: relative;
+    top: 180px;
+    box-shadow:2px 2px 10px whitesmoke; 
+
+ }
+ #h1f,#h2f{
+    text-align: center;
+ }
+ p{
+    text-align: center;
+ }
+ #cssp{
+    position: relative;
+    left: 250px;
+    border-radius: 20px;
+    background-color: bisque;
+ }
+
+ .blue{
+    color: blue;
+ }
+
+ /* dimension */
+ #dimension{
+    background-color: lightgoldenrodyellow;
+    height: 250px;
+    width: 1000px;
+    border-radius: 25px;
+    position: relative;
+    top: 230px;
+    box-shadow:2px 2px 10px whitesmoke; 
+
+
+ }
+ #cool{
+    position:relative;
+    top: 200px;
+    border-radius: 20px;
+ }
+ .ch{
+    position: relative;
+    top: 50px;
+ }
+
+ #main{
+    height: 3100px;
+    width: 1100px;
+    background-color: cornflowerblue;
+    border-radius: 30px;
+    box-shadow: 10px 10px 20px rgb(125, 95, 118);
+ }
